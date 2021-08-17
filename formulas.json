@@ -1,0 +1,31 @@
+{
+    "layers": {
+        "a": 20,
+        "b": 60,
+        "c": 20
+    },
+    "general": {
+        "LDPE": 73,
+        "LLDPE-O": 10,
+        "LLDPE-M": 10,
+        "Slip": 2,
+        "Antiblock": 2,
+        "Process Aid": 3
+    },
+    "lettuce": {
+        "LDPE": 73,
+        "LLDPE-O": 10,
+        "LLDPE-M": 10,
+        "Slip": 2,
+        "Antiblock": 2,
+        "Process Aid": 3        
+    },
+    "zipper": {
+        "LDPE": 73,
+        "LLDPE-O": 10,
+        "LLDPE-M": 10,
+        "Slip": 2,
+        "Antiblock": 2,
+        "Process Aid": 3   
+    }
+}
